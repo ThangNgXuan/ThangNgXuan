@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nguyen Xuan Thang.
+- 👋 Hi, I’m Nguyen Xuan Thang. I come from Da Nang City
 - 👀 I’m interested in mathematic, calculus, statistic probability.
 - 🌱 I’m currently learning about Machine Learning which is a part of Artificial Intelligence specialization. I want to become ML/AI Engineer in the future.
 - 💞️ I’m looking to collaborate on a good company that gives me an opportunity to absorb amazing new knowledge and improve myself in my career path.
